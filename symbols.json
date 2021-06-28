@@ -1,0 +1,22 @@
+[
+    {
+        "ticker": "AMD",
+        "instrument": "EQUITY",
+        "exchange": "NMS",
+        "market": "us_market",
+        "name": "Advanced Micro Devices, Inc.",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "currency": "USD"
+    },
+    {
+        "ticker": "AAPL",
+        "instrument": "EQUITY",
+        "exchange": "NMS",
+        "market": "us_market",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "industry": "Consumer Electronics",
+        "currency": "USD"
+    }
+]

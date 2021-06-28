@@ -1,0 +1,13 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://finance.yahoo.com:443 "GET /quote/AMD HTTP/1.1" 200 None
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://finance.yahoo.com:443 "GET /quote/AMD/holders/financials HTTP/1.1" 404 636
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://finance.yahoo.com:443 "GET /quote/AMD/holders/financials HTTP/1.1" 404 636
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://finance.yahoo.com:443 "GET /quote/AAPL HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://finance.yahoo.com:443 "GET /quote/AAPL/holders/financials HTTP/1.1" 404 638
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://finance.yahoo.com:443 "GET /quote/AAPL/holders/financials HTTP/1.1" 404 638
